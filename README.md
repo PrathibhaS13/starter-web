@@ -1,7 +1,6 @@
 # Starter Web Repo
 this is a website
-kfkjvgfdlkglg
-fvyrfghfkirditritif,fjoifjfoofooififfffk
+v ncfdbh
 ## Introduction
  hello
 ## Purpose
