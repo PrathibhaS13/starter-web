@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    prathi 	prathi@gmail prthi11
 
 # THANKS
 
