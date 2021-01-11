@@ -15,4 +15,4 @@ ejfr.nkrk;r.g;gp'pogorgr;
 
 ###Copyright
 
-2021 Git.training.
+2021 Git.training.all rights reserved
