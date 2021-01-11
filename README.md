@@ -11,3 +11,6 @@ this is a website
 mmdcgfdhkedjferijfkrhgurffnhieuoj
 
 ## How to contribute
+###Copyright
+
+2021 Git.training.
